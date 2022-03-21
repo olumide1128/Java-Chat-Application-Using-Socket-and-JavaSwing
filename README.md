@@ -4,7 +4,7 @@ This is a chat Application created using the Socket API in java and designed usi
 ## Instructions
 - After cloning this repo, open in Netbeans or any IDE of your choice
 - Run the serverApp and clientApp files separately and chat away.
-- To exit the chat App, tye 'bye' from either chat.
+- To exit the chat App, type 'bye' from either chat.
 
 ## Snapshots
 
